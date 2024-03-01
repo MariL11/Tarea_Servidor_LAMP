@@ -2,4 +2,4 @@
 
 Servidor LAMP
 
-[Documentación](./Documentación_LAMP.md)
+[Documentación](./Documentacion_LAMP.md)
